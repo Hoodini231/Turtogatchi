@@ -9,8 +9,6 @@ A retro 8bit themed virtual pet mobile game designed to educate, raise awareness
 - [Tech Stack](#tech-stack)
 - [Features](#features)
 - [Demo and Graphics](#demo-and-graphics)
-- [Installation](#installation)
-- [Design & Assets](#design--assets)
 
 ---
 
